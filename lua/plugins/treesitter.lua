@@ -12,6 +12,8 @@ return {
       "python",
       "ninja",
       "rst",
+      "markdown",
+      "markdown_inline",
       "git_config",
       "gitcommit",
       "git_rebase",
